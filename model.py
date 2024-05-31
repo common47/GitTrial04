@@ -1,5 +1,5 @@
 import streamlit as st
-from opencv_python_headless import cv2
+import cv2
 import torch
 from ultralytics import YOLO
 import numpy as np
